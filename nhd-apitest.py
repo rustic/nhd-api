@@ -67,4 +67,4 @@ def ticketQuery(method, uri):
 
 # Query syntax as per https://www.nethelpdesk.com/apidoc#/resources/tickets?_k=91dis1
 ticketQuery("GET", "Tickets") # 404 File not found error
-ticketQuery("GET", "Tickets/1004451") # Works
+ticketQuery("GET", "Tickets/1013575") # Works
