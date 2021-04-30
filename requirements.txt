@@ -8,5 +8,5 @@ mccabe==0.6.1
 python-dotenv @ https://github.com/theskumar/python-dotenv/archive/master.zip
 requests==2.25.1
 six==1.12.0
-urllib3==1.25.6
+urllib3==1.25.8
 wrapt==1.11.2
